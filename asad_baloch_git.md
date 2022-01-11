@@ -3,3 +3,5 @@
 
 
 # GIT SECOND PUSH kardo 
+
+# checking after opening folder again
