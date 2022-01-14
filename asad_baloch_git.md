@@ -5,3 +5,5 @@
 # GIT SECOND PUSH kardo 
 
 # checking after opening folder again
+
+# Uploading assignments 
