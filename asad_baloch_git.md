@@ -1,9 +1,9 @@
-# my first git commit
+# git commit
 # main git check kar raha ho
 
 
-# GIT SECOND PUSH kardo 
+# GIT S
 
-# checking after opening folder again
+# checking 
 
 # Uploading assignments 
